@@ -390,7 +390,7 @@ function Update:Window(text,logo,keybind)
     UserText.TextColor3 = Color3.fromRGB(255, 255, 255)
     UserText.Size = UDim2.new(0, 80, 0, 25)
     UserText.Font = Enum.Font.GothamSemibold
-    UserText.Text = "TienTiny.Space"
+    UserText.Text = "DUY HUB VN"
     UserText.TextScaled = true
     UserText.TextSize = 17.000
     UserText.TextWrapped = true
